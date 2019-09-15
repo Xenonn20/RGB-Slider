@@ -1,3 +1,3 @@
 # RGB-Slider
 Simple color code application
-<a href='https://hostingkartinok.com/show-image.php?id=4171ee07a47bd63f8f57e3f6050a3052' title='бесплатный хостинг изображений'><img style="width:50%" src='https://s8.hostingkartinok.com/uploads/images/2019/09/4171ee07a47bd63f8f57e3f6050a3052.jpg' alt='Yes'  /></a>
+<img src="https://cdn1.savepice.ru/uploads/2019/9/15/581dade8caef1c62f845939109132e09-full.png" border="0"/></a>
